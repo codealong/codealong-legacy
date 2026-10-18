@@ -1,5 +1,10 @@
 # Codealong
 
+> [!NOTE]
+> **This is Codealong's earlier project**, a tool for engineering metrics, kept here as it was. It
+> isn't maintained. **Codealong today** is a free, open-source app that puts every coding agent you
+> run in one window: [codealong.com](https://www.codealong.com).
+
 Codealong is an open source tool to gain visibility into an engineering organization through source-level metrics. Examples of use cases include:
 
 1. View and search pull requests and commits across a large number of repositories.
